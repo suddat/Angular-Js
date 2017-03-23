@@ -1,0 +1,3 @@
+directives -> new behaviour to HTML elements (like ng-click,ng-repeat which is a loop)
+expressions -> display data on HTML page (like {{product.name}})
+autoload -> if any how function of controller update the state of the data, the view automatically changes without refreshing the web page.
