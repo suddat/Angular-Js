@@ -6,3 +6,18 @@ directives - > are a way to make standalone UI Components like <app-info>.
 services - > make standalone communcation logic like forecast.
 
 Routes ->  are a way to manage apps containing more views. like bootstrap
+
+
+
+
+
+https://school.scotch.io/getting-started-with-angularjs-1x
+(18:31) Anitha kola: https://www.sitepoint.com/practical-guide-angularjs-directives-part-two/
+(18:31) Anitha kola: http://www.michaelbromley.co.uk/blog/260/writing-multi-element-directives-in-angularjs
+(18:32) Anitha kola: https://www.bennadel.com/blog/2852-understanding-how-to-use-scope-watch-with-controller-as-in-angularjs.htm
+(18:32) Anitha kola: http://www.binaryintellect.net/articles/5d8be0b6-e294-457e-82b0-ba7cc10cae0e.aspx (-- Broadcasting ----)
+(18:32) Anitha kola: https://weblogs.asp.net/dwahlin/creating-custom-angularjs-directives-part-i-the-fundamentals
+(18:32) Anitha kola: http://jimhoskins.com/2012/12/17/angularjs-and-apply.html
+(18:32) Anitha kola: http://teropa.info/blog/2013/11/03/make-your-own-angular-part-1-scopes-and-digest.html
+(18:33) Anitha kola: http://jimhoskins.com/2012/12/17/angularjs-and-apply.html
+(18:33) Anitha kola: https://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app
