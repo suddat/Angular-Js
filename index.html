@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html ng-app="app">
+<head>
+	<title>Angular Training</title>
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+<body ng-controller="index">
+	<h1>{{ someValue }}</h1>
+	<pre>{{ datas | json }}</pre>
+	<div ng-repeat="data in datas">
+		<h3> {{data.id}} --> {{data.name}} </h3>
+	</div>
+</body>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.3/angular.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/2.5.0/ui-bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/2.5.0/ui-bootstrap-tpls.min.js"></script>
+
+<script src="scripts/app.js"></script>
+
+</html>
